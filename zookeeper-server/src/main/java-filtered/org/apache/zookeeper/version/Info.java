@@ -23,6 +23,7 @@ public interface Info {
     //dhiuwghfkjwgefkjhwdgkfhgdwkjfhgdwjkfhg
     //asbdfksabfksahgfjkhasgfjkhasgfjkhsa
     //fkgfjkhdskfsdkgfksdhgfkjsdhfgkjsdgfkdshfg
+    //askhfkuasfkasgdkhasgdkasgdhk
     int MAJOR=${parsedVersion.majorVersion};
     int MINOR=${parsedVersion.minorVersion};
     int MICRO=${parsedVersion.incrementalVersion};
