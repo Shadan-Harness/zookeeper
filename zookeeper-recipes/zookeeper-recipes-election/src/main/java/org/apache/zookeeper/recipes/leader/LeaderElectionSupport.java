@@ -100,6 +100,7 @@ public class LeaderElectionSupport implements Watcher {
     private String hostName;
 
     public LeaderElectionSupport() {
+        //g5tgt5g5g5tg
         state = State.STOP;
         listeners = Collections.synchronizedSet(new HashSet<>());
     }
