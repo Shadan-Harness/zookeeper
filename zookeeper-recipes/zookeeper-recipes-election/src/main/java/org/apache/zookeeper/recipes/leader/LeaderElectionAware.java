@@ -18,8 +18,6 @@
 package org.apache.zookeeper.recipes.leader;
 
 import org.apache.zookeeper.recipes.leader.LeaderElectionSupport.EventType;
-//fdfsfsdfgdsdfsdfdsf
-//fsdfdsfdsfsdfdsfds
 
 /**
  * An interface to be implemented by clients that want to receive election
