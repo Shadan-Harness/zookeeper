@@ -17,6 +17,7 @@
  */
 
 package org.apache.zookeeper.version;
+//dwdgjwhgd
 
 public class VersionInfoMain implements org.apache.zookeeper.version.Info {
     public static void main(String[] args) {
