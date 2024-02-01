@@ -6,7 +6,7 @@
   </a>
 </p>
 
-For the latest information about Apache ZooKeeper, please visit our website at:dd
+For the latest information about Apache ZooKeeper, please visit our website at:ddd
 
    https://zookeeper.apache.org
 
