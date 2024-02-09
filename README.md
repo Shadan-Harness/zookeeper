@@ -17,7 +17,7 @@ and our wiki, at:
 ## Packaging/release artifacts
 
 Either downloaded from https://zookeeper.apache.org/releases.html or
-found in zookeeper-assembly/target directory after building the project with maven.
+found in zookeeper-assembly/target directory after building the project with maven..
 
     apache-zookeeper-[version].tar.gz
 
